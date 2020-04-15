@@ -1,2 +1,2 @@
 # cryptobot
- webdcraping twitterbot
+ webscraping cryptocurrency twitterbot
