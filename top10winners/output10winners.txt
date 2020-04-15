@@ -1,0 +1,10 @@
+#NANO  Nano 14.55%
+#NEXO  Nexo 14.21%
+#GXC  GXChain 13.21%
+#REN  Ren 10.09%
+#STRAT  Stratis 9.78%
+#NEX  Nash Exchange 8.83%
+#IOST  IOST 8.30%
+#QTUM  Qtum 8.27%
+#WTC  Walton 8.03%
+#AOA  Aurora 7.32%

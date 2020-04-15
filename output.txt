@@ -1,0 +1,5 @@
+#BTC  Bitcoin $10020.57 3.70%
+#ETH  Ethereum $222.14 5.20%
+#XRP  XRP $0.317517 1.75%
+#LTC  Litecoin $94.27 1.84%
+#BCH  Bitcoin Cash $303.56 2.61%
